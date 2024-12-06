@@ -2,9 +2,12 @@
 	"status":"success",
 	"message":"",
 	"data":{
-		"Token":"123",
+		"token":"123ite",
 		"profile":{
-			
+			"lastname":"vi",
+			"fristname":"chai",
+			"coverimg":"https://keeptogithub.github.io/testapi/khalidcover.jpg",
+			"profileimg":"https://keeptogithub.github.io/testapi/khalidprofile.jpg"
 		}
 	}
 
